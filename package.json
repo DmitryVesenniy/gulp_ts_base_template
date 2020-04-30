@@ -16,7 +16,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-typescript": "^5.0.1",
     "gulp-util": "^3.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "tsify": "^4.0.1",
     "typescript": "^3.5.3",
     "vinyl-source-stream": "^2.0.0",
